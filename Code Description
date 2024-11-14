@@ -1,2 +1,7 @@
 1.Инициализация на Scanner:
   Програмата използва Scanner за четене на входа от потребителя.
+2.Въвеждане и проверка:
+String input;
+while (!(input = scanner.nextLine()).equals("Stop")) {
+    System.out.println(input);
+}
