@@ -5,4 +5,4 @@ String input;
 while (!(input = scanner.nextLine()).equals("Stop")) {
     System.out.println(input);
 }
- цикъла while, програмата чете всяка нова линия текст, която потребителят въвежда. Ако
+В цикъла while, програмата чете всяка нова линия текст, която потребителят въвежда. Ако
